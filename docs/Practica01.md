@@ -19,4 +19,4 @@ Después enlazamos Herd con el repositorio, sirviéndolo en HTTPS:
 
 ![Enlace](/assets/img5.png)
 
-No he usado ningún plugin ni elemento de ReadtheDocs.
+No he usado ningún plugin ni elemento de ReadtheDocs. 
