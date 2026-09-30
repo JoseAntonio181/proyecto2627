@@ -2,7 +2,7 @@ site_name: Proyecto 2026/27
 nav:
   - HOME: https://github.com/JoseAntonio181/proyecto2627
   - BLOQUE 1:
-      - practica01.md
+      - Practica01.md
 theme:
   name: readthedocs
   locale: es
